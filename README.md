@@ -2,9 +2,8 @@
 
 ## AIM:
  Develop a python program to Plot a time series data (population/ market price of a commodity /temperature.
-
 ## ALGORITHM:
-### STEP 1: Import the required packages like pandas and numpy
+### STEP 1: Import the required packages like pandas and numpy 
 ### STEP 2: Read the data using the pandas
 ### STEP 3: Calculate the mean for the respective column.
 ### STEP 4: Plot the data according to need and can be altered monthly, or yearly.
